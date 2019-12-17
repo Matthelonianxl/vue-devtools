@@ -75,13 +75,13 @@
     source-map "~0.6.1"
     vue-template-es2015-compiler "^1.9.0"
 
-"@vue/ui@^0.10.5":
-  version "0.10.5"
-  resolved "https://registry.yarnpkg.com/@vue/ui/-/ui-0.10.5.tgz#e20e71e42ad83e4632c34d51473d71b5b6cfa15e"
-  integrity sha512-MfVCDKttQKcpIp1ibf41esIU7NqDGB1K+998rbrj9Mef61dGHdBww1K7UiH9nFcVzV/ej55p6s3Kic+MuSBYgA==
+"@vue/ui@^0.11.6":
+  version "0.11.6"
+  resolved "https://registry.yarnpkg.com/@vue/ui/-/ui-0.11.6.tgz#4b249774812e0025812adeb74b7078a4be43dfaf"
+  integrity sha512-wYM3j3+mY7VcfpRNRMVXMwPjYHmYy90TDbOi5RXA7Vj3E0fkX9Pd+Mb0KxMmcIbIfWNJVTBzCFX6uzI0nBWCyg==
   dependencies:
     focus-visible "^4.1.5"
-    v-tooltip "^3.0.0-alpha.10"
+    v-tooltip "^3.0.0-alpha.11"
     vue-resize "^0.4.5"
 
 "@webassemblyjs/ast@1.8.5":
@@ -6229,10 +6229,10 @@ uuid@^3.0.1, uuid@^3.3.2:
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.3.2.tgz#1b4af4955eb3077c501c23872fc6513811587131"
   integrity sha512-yXJmeNaw3DnnKAOKJE51sL/ZaYfWJRl1pK9dr19YFCu0ObS231AB1/LbqTKRAQ5kw8A90rA6fr4riOUpTZvQZA==
 
-v-tooltip@^3.0.0-alpha.10:
-  version "3.0.0-alpha.10"
-  resolved "https://registry.yarnpkg.com/v-tooltip/-/v-tooltip-3.0.0-alpha.10.tgz#d710ec5801dca4f501da8af833600542d4c80e94"
-  integrity sha512-4EZkRXvpmLHUMUUMYr/xNXyahG7/85s5BEqxC0Kx/waFMrjGsdEQMnD7elx7s30xlrPzhcc8WWf5KPu5t9HL2A==
+v-tooltip@^3.0.0-alpha.11:
+  version "3.0.0-alpha.11"
+  resolved "https://registry.yarnpkg.com/v-tooltip/-/v-tooltip-3.0.0-alpha.11.tgz#e278dfb068246acdd7b633baba2135599b3b22ab"
+  integrity sha512-n95vxc1fBZrCkmkJTuH/O0if+8r7r+dFfZpOYCysYT+bIJiK4gxMiEo8olTMoIM1uxikiOGN+CMURcW764m6Xw==
   dependencies:
     popper.js "^1.15.0"
     vue-resize "^0.4.5"
